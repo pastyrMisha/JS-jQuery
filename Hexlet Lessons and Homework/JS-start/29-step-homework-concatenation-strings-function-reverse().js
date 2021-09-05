@@ -13,3 +13,11 @@ const reverse = (str) => {
   };
   
   console.log(reverse("Hello!"));
+
+
+
+  // Variant 2:
+  
+  // function solution(str){
+//   return str.split('').reverse().join('');  
+// }

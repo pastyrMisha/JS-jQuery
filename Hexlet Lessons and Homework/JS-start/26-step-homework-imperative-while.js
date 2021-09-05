@@ -12,3 +12,5 @@ const smallestDivisor = (n) => {
     return counter;
   };
 console.log(smallestDivisor(15));
+
+// наименьший делитель
